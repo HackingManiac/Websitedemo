@@ -1,0 +1,99 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navimg{
+    margin-left: 20px;
+    margin-top: 20px;
+}
+nav{
+    display: flex;
+}
+div ul  {
+    text-decoration: none;
+   display: flex;
+   margin-top: 70px;
+   margin-left: 500px;
+   font-size: 18px;
+   color: blueviolet;
+   
+   
+}
+div ul li a{
+    padding: 13px;
+}
+.row{
+    display: flex;
+}
+h1{
+    font-size: 50px;
+    color:rgb(82, 17, 143) ;
+    margin-left: 100px;
+    margin-top: 210px;
+}
+h3{
+    font-weight: bolder;
+    color:rgb(82, 17, 143) ;
+    font-size: 30px;
+}
+h5{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 300;
+}
+.col{
+    margin-left: -300px;
+    
+}
+.placements{
+margin-left: -20px;
+text-align: center;
+font-size: 70px;
+}
+.place2{
+    text-align: center;
+    font-size: 25px;
+}
+.raze{
+    font-size: 15px;
+}
+.row1{
+    display: flex;
+}
+.card:hover{
+    background-color: blueviolet;
+    color: aliceblue;
+    transition: 0.7s;
+}
+.student{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 55px;
+    font-weight: bolder;
+}
+.studenth3{
+    text-align: center;
+    font-size: 20px;
+}
+h6{
+    color: blueviolet;
+}
+
+
+
+
+.bg{
+    background-image: url(./pen.jpeg);
+}
+#bg1{
+    color: azure;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+#bg6{
+    text-align: center;
+    color: rgb(197, 181, 87);
+}
+.btn{
+    color: blueviolet;
+    border-radius: 4;
+}
